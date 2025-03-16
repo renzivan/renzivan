@@ -20,7 +20,9 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
 ## Website
  - [Portfolio](https://renzivan.github.io/)
  - [CV](https://renzivan.github.io/cv.pdf)
+## Get in touch
  - [renzivanyapenguio@gmail.com](mailto:renzivanyapenguio@gmail.com)
+ - [discord](https://discordapp.com/users/460646553946816554)
 
 
 <!--
