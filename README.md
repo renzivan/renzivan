@@ -28,6 +28,15 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
 <h1 align="center">Hi 👋, I'm Renz</h1>
 <h3 align="center">🧑‍💻A passionate frontend developer from PH</h3>
 
+<h2 align="left">Connect with me:</h2>
+ <p align="left">
+  <a href="mailto:renzivanyapenguio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="qwe" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/7003018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7003018" height="30" width="40" /></a>
+  <a href="https://instagram.com/otenciano.salsalito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otenciano.salsalito" height="30" width="40" /></a>
+  <a href="https://medium.com/@renzivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renzivan" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/460646553946816554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qwe" height="30" width="40" /></a>
+ </p>
+
 <h2 align="left">Language and Tools:</h2>
   <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
@@ -68,18 +77,9 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
   </p>
 
 <h2 align="left">Blogs:</h2>
- - [Building a simple portfolio website for free!](https://renzivan.medium.com/building-a-simple-portfolio-website-d5c5a5aaf80e)
- - [CI/CD using github actions](https://renzivan.medium.com/github-actions-deploy-node-js-on-vps-1deeede10a90)
- - [Clone github using personal access token](https://renzivan.medium.com/clone-github-repo-using-pat-personal-access-token-2dbe1a8f3ea8)
-
-<h2 align="left">Connect with me:</h2>
- <p align="left">
-  <a href="mailto:renzivanyapenguio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="qwe" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/7003018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7003018" height="30" width="40" /></a>
-  <a href="https://instagram.com/otenciano.salsalito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otenciano.salsalito" height="30" width="40" /></a>
-  <a href="https://medium.com/@renzivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renzivan" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/460646553946816554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qwe" height="30" width="40" /></a>
- </p>
+- [Building a simple portfolio website for free!](https://renzivan.medium.com/building-a-simple-portfolio-website-d5c5a5aaf80e)
+- [CI/CD using github actions](https://renzivan.medium.com/github-actions-deploy-node-js-on-vps-1deeede10a90)
+- [Clone github using personal access token](https://renzivan.medium.com/clone-github-repo-using-pat-personal-access-token-2dbe1a8f3ea8)
 
 <!--
 **renzivan/renzivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
