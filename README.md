@@ -39,7 +39,7 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
 
 <h2 align="left">Language and Tools:</h2>
   <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40" />
     </a>
@@ -124,7 +124,6 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
         height="40" />
     </a>
-    
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="xd" width="40" height="40" />
     </a>
