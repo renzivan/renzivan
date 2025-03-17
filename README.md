@@ -43,88 +43,94 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3" width="40" height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" />
     </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <a href="https://vuejs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs" width="40" height="40" />
     </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://nuxtjs.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
     </a>
-    <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <a href="https://quasar.dev/" target="_blank">
       <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <a href="https://getbootstrap.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
-   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+   <a href="https://pugjs.org" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
     </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <a href="https://sass-lang.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40" />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
         height="40" />
     </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+    <a href="https://vuetifyjs.com/en/" target="_blank">
       <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
     </a>
   </p>
 
   <p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    <a href="https://developers.google.com/maps/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/768px-Google_Maps_Logo_2020.svg.png?20200329030310" alt="googlemaps" width="40" height="40" />
     </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <a href="https://firebase.google.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.linux.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="40" height="40" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" />
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
         alt="nodejs" width="40" height="40" />
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"
-        alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <a href="https://www.postgresql.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" />
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <a href="https://postman.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
         height="40" />
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+  </p>
+  
+  <p align="left">
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617"
+        alt="photoshop" width="40" height="40" />
+    </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="xd" width="40" height="40" />
     </a>
   </p>
