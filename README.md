@@ -32,7 +32,7 @@ Frontend developer proficient in Vue, React, TypeScript, and CSS frameworks. Tra
  <p align="left">
   <a href="mailto:renzivanyapenguio@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="qwe" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/7003018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7003018" height="30" width="40" /></a>
-  <a href="https://instagram.com/otenciano.salsalito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otenciano.salsalito" height="30" width="40" /></a>
+  <a href="https://instagram.com/rxnzivxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otenciano.salsalito" height="30" width="40" /></a>
   <a href="https://medium.com/@renzivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renzivan" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/460646553946816554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qwe" height="30" width="40" /></a>
  </p>
