@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renz</h1>
+<!-- <h1 align="center">Hi 👋, I'm Renz</h1>
 <h3 align="center">🧑‍💻Frontend developer</h3>
 
 <h2 align="left">📫Connect with me:</h2>
@@ -48,7 +48,7 @@
 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzivan&show_icons=true&locale=en&layout=compact"alt="renzivan" />
-  </p>
+  </p> -->
 
 ## 📖Blogs
  - [Building a simple portfolio website for free!](https://renzivan.medium.com/building-a-simple-portfolio-website-d5c5a5aaf80e)
